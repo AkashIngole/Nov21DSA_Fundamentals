@@ -1,4 +1,4 @@
-package dailyproblems.Assignment21Nov2021;
+package dailyproblems.Assignment20Nov2021;
 
 import java.util.*;
 
